@@ -1,0 +1,2 @@
+Usei o tailwind, botei ele como "play CDN" para não ocorrer problemas, mas no projeto baixei ele usando o npm. O tailwind foi usado para criar a homepage e página de login, além disso coloquei todas as imagens como svg já no código para assim evitar erros na hora de abrirem o arquivo.
+O javascript para dar a animação de scroll, vi na internet e achei legal implementar isso no meu projeto, não sei se irá ser descontado pontos por isso.
